@@ -1,0 +1,21 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/noumaanbaba",
+    "tw_url":"https://twitter.com/noumaanbaba",
+    "gh_url":"https://github.com/numanbaba",
+    "blog_name":"Coding Thunder",
+    "tagline": "Blog liked by programmers",
+    "gmail-user": "youremail@gmail.com",
+    "gmail-password": "password",
+    "about_text": "hi! My name is Numaan I'm working on thixdgdhokdbnmas this is test website",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "numaan",
+    "admin_pas": "12345",
+    "upload_location": "C:\\Users\\nouman\\PycharmProjects\\pythonProject2\\static"
+
+  }
+}
